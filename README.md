@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**Lee-seokgwon/Lee-seokgwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hello! I am an **Electronic Engineering Student** at Kyungpook National University. Fascinated by Embedded Programming and ROS. Passionate about developing innovative solutions in robotics.
 
-Here are some ideas to get you started:
+## Technologies & Tools
+![C](https://img.shields.io/badge/C-4CAF50?style=flat-square)
+![Python](https://img.shields.io/badge/Python-FFD700?style=flat-square)
+![ROS](https://img.shields.io/badge/ROS-1ABC9C?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-FFA500?style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+- **Bachelor of Science in Electronic Engineering** (Kyungpook National University)
+  - Focus: Embedded Systems, Robotics
+  - Currently in 3rd 
+
+## Contact
+- **Email:** [pddj21@knu.ac.kr](mailto:pddj21@knu.ac.kr)
+
